@@ -35,6 +35,27 @@ h1{
     background-size: cover;
     width: 100%;
     display: flex;
-    margin: 0;
-    padding: 0;
+}
+/*second part*/
+#dream-big{
+    margin-top: 40px;
+    height: 500px;
+    padding-bottom: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+}
+.pr-10{
+    padding-right: 12%;
+}
+.w-40{
+    width: 40%;
+}
+.w-40 img{
+    width: 90%;
+    padding: 5%;
+}
+.w-60{
+    width: 60%;
 }
