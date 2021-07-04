@@ -90,3 +90,7 @@ h2{
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
+.copyright{
+    text-align: center;
+    margin-top: 80px;
+}
