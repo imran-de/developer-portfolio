@@ -16,9 +16,12 @@ h2{
     width: 50%;
     padding-left: 5%;
 }
+.br{
+    border: 2px solid yellowgreen;
+}
 .image{
     width: 50%;
-    padding: 5%;
+    padding-left: 40px;
 }
 .image img{
     width: 80%;
